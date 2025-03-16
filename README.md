@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+![swim0413's GitHub stats](https://github-readme-stats.vercel.app/api?username=swim0413&show_icons=true&theme=onedark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swim0413&layout=compact&theme=synthwave)
+
 <!--
 **swim0413/swim0413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
